@@ -10,7 +10,7 @@
 *.ppt
 *.odf
 *.odt
-
+!Istorie/*
 
 # -- Ignore Images ----------------
 *.bmp
